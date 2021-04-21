@@ -1,0 +1,5 @@
+la base de donnée doit être nommée ensafapplication et importer la table liste.sql
+et dans le browser vous allez taper:
+localhost/mouhimghita/
+
+vous allez trouver une video illustrative du projet
